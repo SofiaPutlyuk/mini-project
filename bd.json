@@ -1,0 +1,33 @@
+[
+    {
+      "id": 1,
+      "destination": "Paris, France",
+      "image": "https://example.com/paris.jpg",
+      "description": "Explore the romantic city of Paris, famous for its landmarks like the Eiffel Tower and the Louvre."
+    },
+    {
+      "id": 2,
+      "destination": "Tokyo, Japan",
+      "image": "https://example.com/tokyo.jpg",
+      "description": "Experience the vibrant culture of Tokyo, known for its advanced technology, delicious cuisine, and historical sites."
+    },
+    {
+      "id": 3,
+      "destination": "Sydney, Australia",
+      "image": "https://example.com/sydney.jpg",
+      "description": "Visit Sydney, with its iconic Opera House and beautiful beaches, offering a perfect blend of urban and natural landscapes."
+    },
+    {
+      "id": 4,
+      "destination": "Rome, Italy",
+      "image": "https://example.com/rome.jpg",
+      "description": "Step back in time in Rome, the eternal city, with its rich history, ancient ruins, and mouth-watering Italian cuisine."
+    },
+    {
+      "id": 5,
+      "destination": "New York, USA",
+      "image": "https://example.com/newyork.jpg",
+      "description": "Discover the bustling metropolis of New York, home to iconic landmarks like Times Square, Central Park, and the Statue of Liberty."
+    }
+  ]
+  
